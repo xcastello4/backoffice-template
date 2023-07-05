@@ -29,8 +29,8 @@ export function BaseLayout() {
                         <div className="flex items-center">
                             <div className="flex-shrink-0">
                             <a href="/" className="flex items-center mb-4 sm:mb-0">
-                                <img src="/vite.svg" className="h-8 mr-3" alt="EduHub Logo" />
-                                <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">EduHub</span>
+                                <img src="/vite.svg" className="h-8 mr-3" alt="Logo" />
+                                <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">Name</span>
                             </a>
                             </div>
                             <div className="hidden md:block">
@@ -141,7 +141,7 @@ export function BaseLayout() {
                     <div className="sm:flex sm:items-center sm:justify-between">
                         <a href="/" className="flex items-center mb-4 sm:mb-0">
                             <img src="/vite.svg" className="h-8 mr-3" alt="Flowbite Logo" />
-                            <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">EduHub</span>
+                            <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">Name</span>
                         </a>
                         <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
                             <li>
@@ -159,7 +159,7 @@ export function BaseLayout() {
                         </ul>
                     </div>
                     <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-                    <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" className="hover:underline">EduHub™</a>. All Rights Reserved.</span>
+                    <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" className="hover:underline">Name</a>. All Rights Reserved.</span>
                 </div>
             </footer>
         </div>
